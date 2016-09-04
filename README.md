@@ -1,6 +1,6 @@
 # YouTube Search
 
-App created as an excersice of the course [Redux](https://www.udemy.com/react-redux/)
+React version of YouTube Search based on the course [Redux](https://www.udemy.com/react-redux/)
 
 
 ###Getting Started###
